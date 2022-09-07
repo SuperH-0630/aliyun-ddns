@@ -1,0 +1,4 @@
+venv
+.idea
+conf.json
+*.log
